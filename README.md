@@ -9,4 +9,4 @@ If you would like to contribute, go ahead! I could use all the help I can get!
 * [Django](https://www.djangoproject.com/) – The Web Framework to Rule Them All
 
 ## License
-This work is licensed under the GNU General Public License v3.0 – see the [LICENSE.md](LICENSE.md) for more information.
+This work is licensed under the GNU General Public License v3.0 – see the [LICENSE](LICENSE) for more information.
