@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<form method="get" action="/downloader/">
+  {{ form }}
+  <input type="submit" value="Convert to Mp3!">
+</form>
+{% endblock %}
